@@ -321,11 +321,10 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: aafb64e34abe52e41b2fce00e602bc2f, type: 3}
   m_IsPrefabAsset: 0
---- !u!4 &173702727 stripped
+--- !u!4 &129987752 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 400002, guid: aafb64e34abe52e41b2fce00e602bc2f,
-    type: 3}
-  m_PrefabInternal: {fileID: 2001723742}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 129987751}
 --- !u!1 &621751351
 GameObject:
   m_ObjectHideFlags: 0
@@ -354,7 +353,7 @@ Transform:
   - {fileID: 73163010}
   - {fileID: 1486164633}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &686441497
 Prefab:
@@ -589,7 +588,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1363730077 stripped
 GameObject:
@@ -653,6 +652,48 @@ MonoBehaviour:
       enableFptlForForwardOpaque: 1
       enableBigTilePrepass: 1
       isFptlEnabled: 1
+--- !u!1001 &1434449128
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4204711281729468, guid: f4fecb2c53779604dbd06c42b2b29b5c, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -2.130974
+      objectReference: {fileID: 0}
+    - target: {fileID: 4204711281729468, guid: f4fecb2c53779604dbd06c42b2b29b5c, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 2.2159266
+      objectReference: {fileID: 0}
+    - target: {fileID: 4204711281729468, guid: f4fecb2c53779604dbd06c42b2b29b5c, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0.0070385933
+      objectReference: {fileID: 0}
+    - target: {fileID: 4204711281729468, guid: f4fecb2c53779604dbd06c42b2b29b5c, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4204711281729468, guid: f4fecb2c53779604dbd06c42b2b29b5c, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4204711281729468, guid: f4fecb2c53779604dbd06c42b2b29b5c, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4204711281729468, guid: f4fecb2c53779604dbd06c42b2b29b5c, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4204711281729468, guid: f4fecb2c53779604dbd06c42b2b29b5c, type: 2}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f4fecb2c53779604dbd06c42b2b29b5c, type: 2}
+  m_IsPrefabAsset: 0
 --- !u!1 &1486164629
 GameObject:
   m_ObjectHideFlags: 0
@@ -829,16 +870,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1901106468}
-  - {fileID: 1618931135}
-  - {fileID: 173702727}
+  - {fileID: 129987752}
+  - {fileID: 2001723743}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!4 &1618931135 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400002, guid: aafb64e34abe52e41b2fce00e602bc2f,
-    type: 3}
-  m_PrefabInternal: {fileID: 129987751}
 --- !u!1001 &1901106467
 Prefab:
   m_ObjectHideFlags: 0
@@ -891,8 +927,7 @@ Prefab:
   m_IsPrefabAsset: 0
 --- !u!4 &1901106468 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 400000, guid: 7527abb91ca723f4caa3b0b4c94324fd,
-    type: 3}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 1901106467}
 --- !u!1001 &1906505024
 Prefab:
@@ -1014,3 +1049,7 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: aafb64e34abe52e41b2fce00e602bc2f, type: 3}
   m_IsPrefabAsset: 0
+--- !u!4 &2001723743 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 2001723742}
