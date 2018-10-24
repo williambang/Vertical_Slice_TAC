@@ -305,7 +305,7 @@ ReflectionProbe:
   serializedVersion: 2
   m_Type: 0
   m_Mode: 1
-  m_RefreshMode: 0
+  m_RefreshMode: 1
   m_TimeSlicingMode: 0
   m_Resolution: 128
   m_UpdateFrequency: 0
@@ -334,7 +334,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 303235352}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.014363885, y: 1.346, z: 0.736}
+  m_LocalPosition: {x: 0.014363885, y: 1.346, z: 1.384}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1021,7 +1021,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4832857029658248, guid: 28af6813de8fff843a56652c70c44e9a, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 2.101
+      value: 1.035
       objectReference: {fileID: 0}
     - target: {fileID: 4832857029658248, guid: 28af6813de8fff843a56652c70c44e9a, type: 2}
       propertyPath: m_LocalRotation.x

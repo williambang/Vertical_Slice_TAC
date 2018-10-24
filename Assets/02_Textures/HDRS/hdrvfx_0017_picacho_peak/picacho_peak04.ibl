@@ -1,0 +1,38 @@
+[Header]
+ICOfile = "picacho_peak04_v104f_3_5k_Thumb.jpg"
+Name = "Picacho Peak"
+Author = "HDR-VFX"
+Location = "Arizona"
+Comment = "picacho, peak, desert, cactus, arizona"
+
+[Background]
+BGfile = "picacho_peak04_v104f_3_5k_Bg.jpg"
+BGmap = 1
+BGu = 0.000000
+BGv = 0.000000
+BGheight = 4000
+
+[Enviroment]
+EVfile = "picacho_peak04_v104f_3_5k_Env.hdr"
+EVmap = 1
+EVu = 0.000000
+EVv = 0.000000
+EVheight = 180
+EVmulti = 0.315789
+EVgamma = 3.157895
+
+[Reflection]
+REFfile = "picacho_peak04_v104f_3_5k_Ref.hdr"
+REFmap = 1
+REFu = 0.000000
+REFv = 0.000000
+REFheight = 875
+REFmulti = 0.280702
+REFgamma = 3.578947
+
+[Sun]
+SUNcolor = 255,255,255
+SUNmulti = 1.000000
+SUNu = 0.216000
+SUNv = 0.219429
+
