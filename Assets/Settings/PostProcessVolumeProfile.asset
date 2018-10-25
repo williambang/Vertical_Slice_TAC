@@ -71,7 +71,7 @@ MonoBehaviour:
     value: 1
   temperature:
     overrideState: 1
-    value: -8.4
+    value: -0.3
   tint:
     overrideState: 0
     value: 0
@@ -1490,7 +1490,7 @@ MonoBehaviour:
     value: 65472
   diffusion:
     overrideState: 1
-    value: 8
+    value: 5.43
   anamorphicRatio:
     overrideState: 0
     value: 0
