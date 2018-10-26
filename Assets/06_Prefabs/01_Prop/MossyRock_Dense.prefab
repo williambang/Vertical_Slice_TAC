@@ -20,7 +20,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4813326415474142}
   m_Layer: 0
-  m_Name: RockForTex
+  m_Name: MossyRock_Dense
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
