@@ -15,6 +15,7 @@ MonoBehaviour:
   - {fileID: 114577055830762230}
   - {fileID: 114935095754361708}
   - {fileID: 114917850883487834}
+  - {fileID: 114376255674260030}
 --- !u!114 &114376255674260030
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -26,7 +27,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 29b00527f85bb3346a4d2cb710971587, type: 3}
   m_Name: VolumetricFog
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   colorMode:
     m_OverrideState: 0
     m_Value: 1
@@ -55,8 +56,8 @@ MonoBehaviour:
     m_Value: 1000
     min: 0
   albedo:
-    m_OverrideState: 0
-    m_Value: {r: 1, g: 1, b: 1, a: 1}
+    m_OverrideState: 1
+    m_Value: {r: 0.6226415, g: 0.42844877, b: 0.22614807, a: 1}
     hdr: 0
     showAlpha: 1
     showEyeDropper: 1
@@ -103,15 +104,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4910d90e50201484ba448b791a192696, type: 3}
   m_Name: VolumetricLightingController
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   depthRange:
     m_OverrideState: 1
-    m_Value: {x: 5709.451, y: 5772.951}
+    m_Value: {x: 3374.5098, y: 5772.951}
     min: 0.01
     max: 10000
   depthDistributionUniformity:
     m_OverrideState: 1
-    m_Value: 0.348
+    m_Value: 0.895
     min: 0
     max: 1
 --- !u!114 &114935095754361708
