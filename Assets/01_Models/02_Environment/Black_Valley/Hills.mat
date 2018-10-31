@@ -18,6 +18,42 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2DArray_62D0EEAF:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_4EE83A16:
+        m_Texture: {fileID: 2800000, guid: 641a6afb2ae11da49af9bab899484859, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_69B2738:
+        m_Texture: {fileID: 2800000, guid: 1f43086e852c9a249ababaf7390cd18a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_74B0CF85:
+        m_Texture: {fileID: 2800000, guid: f5ea9dd685f0eb24bb31ce60c5e04052, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_8796230A:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_B2BC93A5:
+        m_Texture: {fileID: 2800000, guid: c05d87d649e6116478bbb170646656ef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_E2619F89:
+        m_Texture: {fileID: 2800000, guid: 641a6afb2ae11da49af9bab899484859, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_E36FFADE:
+        m_Texture: {fileID: 2800000, guid: 70c1ace74eb27eb46b728bbc72a18407, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_F893C9B3:
+        m_Texture: {fileID: 2800000, guid: 91ac03d6fc40082419f8bf710679e34b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _AnisotropyMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -107,6 +143,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - Vector1_318D4F8A: 0.86
+    - Vector1_41952B4E: 1.34
+    - Vector1_9B57309: 13.15
+    - Vector1_E4C4FE79: 33.69
     - _AORemapMax: 1
     - _AORemapMin: 0
     - _ATDistance: 1
@@ -216,6 +256,7 @@ Material:
     - _ZTestModeDistortion: 8
     - _ZWrite: 1
     m_Colors:
+    - Color_84EDFE8: {r: 0.6250234, g: 0.6792453, b: 0.21466713, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
