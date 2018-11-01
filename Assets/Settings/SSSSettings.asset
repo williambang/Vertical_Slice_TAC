@@ -28,7 +28,7 @@ MonoBehaviour:
     transmissionTint: {r: 1, g: 1, b: 1, a: 1}
     texturingMode: 0
     transmissionMode: 1
-    thicknessRemap: {x: 7.119436, y: 7.119436}
+    thicknessRemap: {x: 0, y: 15.502041}
     worldScale: 1
     ior: 1.4
     scatterDistance1: {r: 0.3, g: 0.3, b: 0.3, a: 0}
