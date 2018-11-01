@@ -177,6 +177,11 @@ Prefab:
       propertyPath: m_BakingSkyUniqueID
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 114183159933307760, guid: faf172dbfc238a94785d4bbd2fd029ca,
+        type: 2}
+      propertyPath: sharedProfile
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: faf172dbfc238a94785d4bbd2fd029ca, type: 2}
   m_IsPrefabAsset: 0
@@ -328,9 +333,9 @@ MonoBehaviour:
   edgeTolerance: 1
   shadowCascadeCount: 4
   shadowCascadeRatios:
-  - 0.015
-  - 0.008
-  - 0.13
+  - 0.05
+  - 0.15
+  - 0.3
   shadowCascadeBorders:
   - 0
   - 0
