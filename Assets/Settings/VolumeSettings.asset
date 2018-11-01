@@ -33,13 +33,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 1
   depthRange:
-    m_OverrideState: 1
-    m_Value: {x: 120.56442, y: 10000}
+    m_OverrideState: 0
+    m_Value: {x: 0.01, y: 777.5864}
     min: 0.01
     max: 10000
   depthDistributionUniformity:
-    m_OverrideState: 1
-    m_Value: 0.731
+    m_OverrideState: 0
+    m_Value: 0
     min: 0
     max: 1
 --- !u!114 &114331155101901108
@@ -153,23 +153,23 @@ MonoBehaviour:
     m_Value: 1000
     min: 0
   albedo:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {r: 1, g: 1, b: 1, a: 1}
     hdr: 0
     showAlpha: 1
     showEyeDropper: 1
   meanFreePath:
-    m_OverrideState: 1
-    m_Value: 200000
+    m_OverrideState: 0
+    m_Value: 60000
     min: 1
   anisotropy:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 0.422
     min: -1
     max: 1
   globalLightProbeDimmer:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0
     min: 0
     max: 1
 --- !u!114 &114527594671542966
@@ -183,7 +183,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ddcec8a8eb2d684d833ac8f5d26aebd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   maxShadowDistance:
     m_OverrideState: 1
     m_Value: 2000
@@ -195,7 +195,7 @@ MonoBehaviour:
     max: 4
   cascadeShadowSplit0:
     m_OverrideState: 1
-    m_Value: 0.005
+    m_Value: 0
     min: 0
     max: 1
   cascadeShadowSplit1:
@@ -269,7 +269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2150ee00179b2f4418ea8b21a7e98eea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   colorMode:
     m_OverrideState: 1
     m_Value: 0
@@ -299,7 +299,7 @@ MonoBehaviour:
     min: 0
   fogDistance:
     m_OverrideState: 1
-    m_Value: 3000
+    m_Value: 10
     min: 0
   fogBaseHeight:
     m_OverrideState: 1
