@@ -1,0 +1,284 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!200 &20000000
+ShaderVariantCollection:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: NewShaderVariants
+  m_Shaders:
+  - first: {fileID: 66, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 103, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 9000, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 9001, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 9002, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 9003, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 9004, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 15104, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 15105, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 15106, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 4800000, guid: 6e4ae4064600d784cac1e41a9e6f2e59, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 8
+      - keywords: _NORMALMAP_TANGENT_SPACE
+        passType: 8
+      - keywords: _MASKMAP _NORMALMAP _NORMALMAP_TANGENT_SPACE
+        passType: 8
+      - keywords: 
+        passType: 11
+      - keywords: _NORMALMAP_TANGENT_SPACE
+        passType: 11
+      - keywords: 
+        passType: 12
+      - keywords: _MASKMAP _NORMALMAP _NORMALMAP_TANGENT_SPACE
+        passType: 12
+      - keywords: 
+        passType: 13
+      - keywords: DIRLIGHTMAP_COMBINED LIGHTMAP_ON
+        passType: 13
+      - keywords: DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON LIGHTMAP_ON
+        passType: 13
+      - keywords: SHADOWS_SHADOWMASK
+        passType: 13
+      - keywords: DIRLIGHTMAP_COMBINED LIGHTMAP_ON SHADOWS_SHADOWMASK
+        passType: 13
+      - keywords: DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON LIGHTMAP_ON SHADOWS_SHADOWMASK
+        passType: 13
+      - keywords: _MASKMAP _NORMALMAP _NORMALMAP_TANGENT_SPACE
+        passType: 13
+      - keywords: SHADOWS_SHADOWMASK _MASKMAP _NORMALMAP _NORMALMAP_TANGENT_SPACE
+        passType: 13
+  - first: {fileID: 4800000, guid: 2e37131331fbdca449b1a2bc47a639ca, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 4800000, guid: 035941b63024d1943af48811c1db20d9, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 4800000, guid: 3d1574f1cdfa0ce4995f9bc79ed7f8ec, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 4800000, guid: 42dfcc8fe803ece4096c58630689982f, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 4800000, guid: 370f7a9cc4e362d488af024d371091e8, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 4800000, guid: 123ed592ad5c2494b8aed301fd609e7b, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 4800000, guid: 326059e48e5735e46a98047eff4f0295, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 4800000, guid: 9bd32a6ece529fd4f9408b8d7e00c10d, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 4800000, guid: ec63f47fd265df243a7b1d40f9ef7fe7, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+      - keywords: _ENABLE_SUN_DISK
+        passType: 0
+  - first: {fileID: 4800000, guid: 123f13d52852ef547b2962de4bd9eaad, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 4800000, guid: e3cab24f27741f44d8af1e94d006267c, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 4800000, guid: 0ef78d24e85a44f4da9d5b5eaa00e50b, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 4800000, guid: 382151503e2a43a4ebb7366d1632731d, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+      - keywords: VIGNETTE
+        passType: 0
+      - keywords: BLOOM CHROMATIC_ABERRATION VIGNETTE
+        passType: 0
+      - keywords: COLOR_GRADING_HDR_3D VIGNETTE
+        passType: 0
+      - keywords: CHROMATIC_ABERRATION COLOR_GRADING_HDR_3D VIGNETTE
+        passType: 0
+      - keywords: BLOOM CHROMATIC_ABERRATION COLOR_GRADING_HDR_3D VIGNETTE
+        passType: 0
+  - first: {fileID: 4800000, guid: 4517edda0467bb14489d5eccc9973ba2, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 4800000, guid: 73be0053604e1d54388db4f32739a92f, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 13
+  - first: {fileID: 4800000, guid: 91d9e1751d0a17749819762ebf2b6846, type: 3}
+    second:
+      variants:
+      - keywords: SSS_MODEL_DISNEY
+        passType: 0
+  - first: {fileID: 4800000, guid: c1e1d3119c6fd4646aea0b4b74cacc1a, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 4800000, guid: cdbdb71de5f9c454b980f6d0e87f0afb, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 4800000, guid: f75014305794b3948a3c6d5ccd550e05, type: 3}
+    second:
+      variants:
+      - keywords: FXAA
+        passType: 0
+  - first: {fileID: 4800000, guid: 4d8c6976e27ab94429dc72998a420140, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 8
+      - keywords: 
+        passType: 11
+      - keywords: 
+        passType: 12
+      - keywords: 
+        passType: 13
+      - keywords: DIRLIGHTMAP_COMBINED LIGHTMAP_ON
+        passType: 13
+      - keywords: DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON LIGHTMAP_ON
+        passType: 13
+      - keywords: SHADOWS_SHADOWMASK
+        passType: 13
+      - keywords: DIRLIGHTMAP_COMBINED LIGHTMAP_ON SHADOWS_SHADOWMASK
+        passType: 13
+      - keywords: DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON LIGHTMAP_ON SHADOWS_SHADOWMASK
+        passType: 13
+  - first: {fileID: 4800000, guid: 65a0c3fd51959d94faaf1fecd974d613, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 8
+      - keywords: 
+        passType: 11
+      - keywords: 
+        passType: 12
+      - keywords: 
+        passType: 13
+      - keywords: DIRLIGHTMAP_COMBINED LIGHTMAP_ON
+        passType: 13
+      - keywords: DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON LIGHTMAP_ON
+        passType: 13
+      - keywords: SHADOWS_SHADOWMASK
+        passType: 13
+      - keywords: DIRLIGHTMAP_COMBINED LIGHTMAP_ON SHADOWS_SHADOWMASK
+        passType: 13
+      - keywords: DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON LIGHTMAP_ON SHADOWS_SHADOWMASK
+        passType: 13
+  - first: {fileID: 4800000, guid: 15d1cfad18cb90e4cbe5ffca01f06117, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 8
+      - keywords: 
+        passType: 11
+      - keywords: 
+        passType: 12
+      - keywords: 
+        passType: 13
+      - keywords: DIRLIGHTMAP_COMBINED LIGHTMAP_ON
+        passType: 13
+      - keywords: DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON LIGHTMAP_ON
+        passType: 13
+      - keywords: SHADOWS_SHADOWMASK
+        passType: 13
+      - keywords: DIRLIGHTMAP_COMBINED LIGHTMAP_ON SHADOWS_SHADOWMASK
+        passType: 13
+      - keywords: DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON LIGHTMAP_ON SHADOWS_SHADOWMASK
+        passType: 13
+  - first: {fileID: 4800000, guid: 49390301e2aeefc4ebb1d6ffb76b069a, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 8
+      - keywords: 
+        passType: 12
+      - keywords: 
+        passType: 13
+      - keywords: SHADOWS_SHADOWMASK
+        passType: 13
+  - first: {fileID: 4800000, guid: 658768847925e5a48a37bcb3c8646507, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 8
+      - keywords: 
+        passType: 12
+      - keywords: 
+        passType: 13
+      - keywords: SHADOWS_SHADOWMASK
+        passType: 13
