@@ -445,7 +445,7 @@ ModelImporter:
     4300002: chr_verticleSlice_mdl_URI_FIXED_IS:chr_red_geo
     4300004: chr_verticleSlice_mdl_URI_FIXED_IS:chr_grey_geo
     4300006: chr_verticleSlice_mdl_URI_FIXED_IS:chr_black_geo
-    7400000: Take 001
+    7400000: Cain_walking
     9500000: //RootNode
     13700000: chr_verticleSlice_mdl_URI_FIXED_IS:chr_black_geo
     13700002: chr_verticleSlice_mdl_URI_FIXED_IS:chr_grey_geo
@@ -487,7 +487,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Take 001
+      name: Cain_walking
       takeName: Take 001
       firstFrame: 1
       lastFrame: 24
